@@ -12,14 +12,14 @@
 正式地址: https://api.baojie.ink/login  
 请求方式: POST  
 请求参数:
-```json
+```
 {
 	"phone":"18585131312",
 	"password":"142536"
 }
 ```
 返回结果:
-```json
+```
 {
     "code": 0,
     "msg": "成功"
@@ -32,14 +32,14 @@
 正式地址: https://api.baojie.ink/signUp  
 请求方式: POST  
 请求参数:
-```json
+```
 {
 	"phone":"18585131312",
 	"password":"142536"
 }
 ```
 返回结果:
-```json
+```
 {
     "code": 0,
     "msg": "成功"
@@ -52,14 +52,14 @@
 正式地址: https://api.baojie.ink/signUp  
 请求方式: POST  
 请求参数:
-```json
+```
 {
 	"phone":"18585131312",
 	"password":"142536" //新密码
 }
 ```
 返回结果:
-```json
+```
 {
     "code": 0,
     "msg": "成功"
