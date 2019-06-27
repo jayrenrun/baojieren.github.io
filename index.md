@@ -23,7 +23,20 @@
 ```json
 {
     "code": 0,
-    "msg": "成功"
+    "msg": "成功",
+    "data": {
+        "userId": 1,
+        "phone": "18585131312",
+        "userName": "baojieren",
+        "image": "\"\"",
+        "token": "SESS18585131312",
+        "roleList": [
+            {
+                "roleTag": "admin",
+                "roleTitle": "超管"
+            }
+        ]
+    }
 }
 ```
 
@@ -60,6 +73,24 @@
 	"phone":"18585131312",
 	"password":"142536" //新密码
 }
+```
+返回结果:
+```json
+{
+    "code": 0,
+    "msg": "成功"
+}
+```
+
+>### 退出登录
+接口用途:   
+接口鉴权: 是  
+测试地址: https://api.baojie.ink/logout  
+正式地址: https://api.baojie.ink/logout  
+请求方式: POST  
+请求参数:
+```json
+
 ```
 返回结果:
 ```json
