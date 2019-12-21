@@ -52,12 +52,12 @@ ul {
 li {
     margin: 0 0 5px 0;
     line-height: 1.5;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 p {
     text-align: justify;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .clear {
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h3 {
     font-weight: bold;
-    font-size: 16px
+    font-size: 18px
 }
 
 /* --------------------------*/
@@ -192,7 +192,7 @@ h2#contact:before {
 }
 
 #bio h2 {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 #aboutme {
@@ -608,7 +608,7 @@ li.s10 {
     border: 1px solid #eee;
     border-radius: 8px;
     color: #666;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 #contactform textarea {
@@ -625,7 +625,7 @@ li.s10 {
     border: none;
     cursor: pointer;
     line-height: 30px;
-    font-size: 16px;
+    font-size: 18px;
     height: 30px;
     padding: 0 15px;
     margin: 0;
@@ -666,7 +666,7 @@ li.s10 {
 
 #messageSent {
     line-height: 40px;
-    font-size: 16px;
+    font-size: 18px;
     width: 100%;
     text-align: center;
     background: #5cd25c;
@@ -742,7 +742,7 @@ body.respond #wrapper {
 }
 
 body.respond h2.sectionHead {
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: -1px;
     margin: 40px 0 50px -60px;
     padding-left: 8px;
@@ -767,7 +767,7 @@ body.respond #socialIcons {
 }
 
 body.respond #bio h2 {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 body.respond #aboutme {
